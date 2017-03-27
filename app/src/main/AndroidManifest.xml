@@ -43,6 +43,12 @@
             android:label="MapActivity"
             android:screenOrientation="landscape"></activity>
         <activity android:name=".MainActivity"></activity>
+
+        <meta-data android:name="com.kakao.sdk.AppKey"
+            android:value="4c54384902d66de78443a07bb262faf1" />
+
+
+
     </application>
 
 </manifest>
