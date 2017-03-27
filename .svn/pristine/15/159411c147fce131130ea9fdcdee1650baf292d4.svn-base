@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Program Files\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="E:\Project\2015_BLE\Android\Android_ver0.3\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-a6066fa93aeaf35db8806181b83af09f6972c97d.jar" />
+    </item>
+    <item
+        jar="E:\Project\2015_BLE\Android\Android_ver0.3\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="E:\Project\2015_BLE\Android\Android_ver0.3\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-8ced057b51d66604ec0602ba561c0e1a4d215592.jar" />
+    </item>
+    <item
+        jar="E:\Project\2015_BLE\Android\Android_ver0.3\app\libs\poi-3.11-20141221.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="51058d9db469437a5ed0aa508e7de8937019e1d9">
+        <dex dex="E:\Project\2015_BLE\Android\Android_ver0.3\app\build\intermediates\pre-dexed\debug\poi-3.11-20141221-09cac776758bbaeccd02065072609832111e6889.jar" />
+    </item>
+    <item
+        jar="E:\Project\2015_BLE\Android\Android_ver0.3\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="E:\Project\2015_BLE\Android\Android_ver0.3\app\build\intermediates\pre-dexed\debug\classes-078b4ff82db6ff2dc78833923a255484f2d04269.jar" />
+    </item>
+    <item
+        jar="E:\Project\2015_BLE\Android\Android_ver0.3\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="E:\Project\2015_BLE\Android\Android_ver0.3\app\build\intermediates\pre-dexed\debug\classes-98779178fe8b76e52548eb9ce23cccd1d94a72bf.jar" />
+    </item>
+
+</items>
